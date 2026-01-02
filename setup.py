@@ -4,7 +4,7 @@ setup(
     name='exo-lang',
     version='3.1.0',
     description='لغة برمجية عربية/إنجليزية',
-    author='Your Name',
+    author='BADR',
     py_modules=['exo'],
     entry_points={
         'console_scripts': [
